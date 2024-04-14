@@ -1,4 +1,4 @@
-# HGCN
+# HyperGCNv1.0
 
 ### Overview
 ![HGCN](HGCN.png)
