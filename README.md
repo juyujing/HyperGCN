@@ -21,5 +21,7 @@ To guarantee that you have the right package versions, you can use Anaconda to s
 ## Train and test
 python hypermotif\model\HGCN.py
 
+## 📫 Contact
+For any inquiries or collaboration opportunities, feel free to reach out to me at [yj2012@hw.ac.uk](yj2012@hw.ac.uk).
 
 ## Project is updating
